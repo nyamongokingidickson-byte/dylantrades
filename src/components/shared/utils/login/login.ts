@@ -35,7 +35,7 @@ export const loginUrl = ({ language }: TLoginUrl) => {
     }`;
     const getOAuthUrl = () => {
         // Special strict fix for Vercel Production to avoid any dynamic parameter issues
-        if (window.location.hostname === 'profithubtool.vercel.app') {
+        if (['dylantrades.vercel.app', 'dylantrades.site'].includes(window.location.hostname)) {
             return `https://oauth.deriv.com/oauth2/authorize?app_id=121856&l=${language}&brand=deriv`;
         }
 

@@ -156,7 +156,7 @@ export const FREE_BOTS_DATA: TFreeBot[] = [
     },
     {
         id: 'premium-speedbot',
-        name: 'Profithub Speedbot',
+        name: 'Dylan Trades Speedbot',
         description: 'Fast execution bot for volatility indices with smart martingale.',
         category: 'Normal',
         xmlPath: 'Normal Bots/Profithub Speedbot.xml',
@@ -344,7 +344,7 @@ export const FREE_BOTS_DATA: TFreeBot[] = [
     },
     {
         id: 'profithub-premium-ai',
-        name: 'PROFITHUB PREMIUM A.I',
+        name: 'DYLAN TRADES PREMIUM A.I',
         description: 'Our most advanced AI-driven strategy for maximum consistency.',
         category: 'Automatic',
         xmlPath: 'Automatic/PROFITHUB PREMIUM A.I.xml',
@@ -354,8 +354,8 @@ export const FREE_BOTS_DATA: TFreeBot[] = [
     },
     {
         id: 'profithub-rise-fall-auto',
-        name: 'PROFITHUB RISE FALL AUTO',
-        description: 'Automated Rise/Fall strategy with Profithub intelligence.',
+        name: 'DYLAN TRADES RISE FALL AUTO',
+        description: 'Automated Rise/Fall strategy with Dylan Trades intelligence.',
         category: 'Automatic',
         xmlPath: 'Automatic/PROFITHUB RISE FALL AUTO.xml',
         isPremium: true,
@@ -363,7 +363,7 @@ export const FREE_BOTS_DATA: TFreeBot[] = [
     },
     {
         id: 'profithub-under-8-over-3',
-        name: 'PROFITHUB UNDER 8 OVER 3 AUTO',
+        name: 'DYLAN TRADES UNDER 8 OVER 3 AUTO',
         description: 'Dual strategy targeting both Under 8 and Over 3.',
         category: 'Automatic',
         xmlPath: 'Automatic/PROFITHUB UNDER 8 OVER 3 AUTO.xml',
@@ -381,8 +381,8 @@ export const FREE_BOTS_DATA: TFreeBot[] = [
     },
     {
         id: 'profit-hub-pro',
-        name: 'PROFIT HUB PRO',
-        description: 'Professional grade Profit Hub strategy.',
+        name: 'DYLAN TRADES PRO',
+        description: 'Professional-grade Dylan Trades strategy.',
         category: 'Normal',
         xmlPath: 'Normal Bots/PROFIT HUB PRO.xml',
         isPremium: true,

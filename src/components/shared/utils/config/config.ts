@@ -28,7 +28,8 @@ export const domain_app_ids = {
     'dbot.deriv.be': APP_IDS.PRODUCTION_BE,
     'dbot.deriv.me': APP_IDS.PRODUCTION_ME,
     '22-dec.vercel.app': APP_IDS.VERCEL,
-    'profithubtool.vercel.app': '121856',
+    'dylantrades.vercel.app': APP_IDS.VERCEL,
+    'dylantrades.site': APP_IDS.PRODUCTION,
 };
 
 export const getCurrentProductionDomain = () =>

@@ -1,4 +1,4 @@
-.profithub-tool-overlay {
+.dylantrades-tool-overlay {
     position: absolute;
     top: 0;
     left: 0;
@@ -23,7 +23,7 @@
         box-shadow: 0 30px 60px rgba(0, 0, 0, 0.5);
     }
 
-    .profithub-tool-header {
+    .dylantrades-tool-header {
         height: 50px;
         background: rgba(0, 5, 10, 0.8);
         display: flex;
@@ -79,7 +79,7 @@
         }
     }
 
-    .profithub-tool-iframe {
+    .dylantrades-tool-iframe {
         flex: 1;
         border: none;
         width: 100%;
@@ -93,7 +93,7 @@
     width: 100%;
 }
 
-.profithub-minimized-icon {
+.dylantrades-minimized-icon {
     position: fixed;
     bottom: 2rem;
     right: 2rem;

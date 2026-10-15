@@ -276,7 +276,7 @@ export default function FloatingAIScanner() {
         if (s.includes('matches')) {
             return FREE_BOTS_DATA.find(b => /Matches_Bot/i.test(b.xmlPath))
         }
-        return FREE_BOTS_DATA.find(b => /Profithub Speedbot|SPEED BOT updated/i.test(b.xmlPath))
+        return FREE_BOTS_DATA.find(b => b.id === 'premium-speedbot' || /SPEED BOT updated/i.test(b.xmlPath))
             || FREE_BOTS_DATA[0]
     }
 
