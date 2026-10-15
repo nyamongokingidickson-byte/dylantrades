@@ -1,7 +1,7 @@
 {
-    "name": "Deriv Bot - Automated Trading Platform",
-    "short_name": "Deriv Bot",
-    "description": "Automated trading at your fingertips. No coding needed.",
+    "name": "Dylan Trades",
+    "short_name": "Dylan Trades",
+    "description": "Dylan Trades — automated trading and smart analysis for modern traders.",
     "start_url": "/?source=mobile",
     "display": "standalone",
     "background_color": "#0e0e0e",
@@ -67,14 +67,14 @@
             "sizes": "1280x720",
             "type": "image/png",
             "form_factor": "wide",
-            "label": "Deriv Bot Dashboard"
+            "label": "Dylan Trades Dashboard"
         },
         {
             "src": "/assets/screenshots/mobile-screenshot.png",
             "sizes": "640x1136",
             "type": "image/png",
             "form_factor": "narrow",
-            "label": "Deriv Bot Mobile View"
+            "label": "Dylan Trades Mobile View"
         }
     ],
     "shortcuts": [
